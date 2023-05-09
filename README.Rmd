@@ -18,7 +18,8 @@ options(tibble.print_min = 5, tibble.print_max = 5)
 
 ## Overview
 
-dirtEIE aims to provide functions to ease and streamline lab data processing and analyses commonly performed in the [EIE group] (https://www.idiv.de/en/groups-and-people/core-groups/experimental-interaction-ecology.html).
+dirtEIE aims to provide functions to ease and streamline lab data processing and analyses commonly performed in the
+[EIE group](https://www.idiv.de/en/groups-and-people/core-groups/experimental-interaction-ecology.html).
 
 The package aims to provide workflows for the following data types, some of which are currently being implemented :
 
