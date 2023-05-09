@@ -1,0 +1,24 @@
+Package: dirtEIE
+Type: Package
+Title: Functions from EIE group
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Compendium of functions to process lab data and run analyses from the EIE group.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Imports:
+  o2eie
+Depends:
+  tidyverse,
+  magrittr,
+  readxl,
+  slider
+Suggests:
+  rmarkdown,
+  knitr,
+  rJava,
+  openxlsx
+Remotes:
+  gpatoine/o2eie
