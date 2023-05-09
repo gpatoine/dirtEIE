@@ -13,7 +13,8 @@ The package aims to provide workflows for the following data types, some
 of which are currently being implemented :
 
 - O2 micro-compensation measurements (basal respiration, microbial
-  carbon, etc.)
+  carbon, etc.). Documentation is currently available with the [o2eie
+  package](https://github.com/gpatoine/o2eie).
 
 Further areas that are planned include:
 
